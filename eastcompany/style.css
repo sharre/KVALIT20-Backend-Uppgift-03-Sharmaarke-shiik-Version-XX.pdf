@@ -1,0 +1,40 @@
+h1{
+    font-weight: bold;
+}
+a{
+    color: black;
+    white-space: nowrap;
+    text-decoration: none;
+}
+#no-stock{
+    color: rgb(156, 50, 50);
+}
+.thumbnail{
+    height: auto;
+    max-width: 200px;
+}
+.product-box{
+    margin: auto;
+    padding: 10px;
+}
+.product-info{
+    height: auto;
+    float: left;
+}
+.row{
+    padding: 10px;
+}
+.product{
+    padding-bottom: 50px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.description{
+    font-size: 12px;
+}
+.price{
+    font-weight: bold;
+    font-size: 17px;
+}
